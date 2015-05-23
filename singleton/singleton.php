@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: NEOGEEK
- * Date: 24/5/2015
- * Time: 12:01 πμ
+ * Author: Konstantinos Tsatsarounos
+ *
  */
 
 class singleton {
