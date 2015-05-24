@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: NEOGEEK
- * Date: 25/5/2015
- * Time: 1:20 πμ
+ * Author: Konstantinos Tsatsarounos
  */
 
 require_once "Orange.php";
