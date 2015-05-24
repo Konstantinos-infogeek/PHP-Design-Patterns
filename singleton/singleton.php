@@ -21,6 +21,9 @@ class singleton {
         $this->SomeVariable = mt_rand(1, 150);
     }
 
+    /**
+     * @return null|singleton
+     */
     public static function getInstace(){
 
 
